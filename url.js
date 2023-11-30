@@ -9,6 +9,6 @@
 
 const urls = [
 	'https://hhming.moe',
-	'https://forms.gle/h3PaJUL1yzzHG2P77',
-	'https://forms.gle/3xDG4SPz8fbhADWr9'
+	'https://forms.gle/18xNQSTA3hhQGjfy8',
+	'https://forms.gle/KA1BMJT7s8P8bHb19'
 ];
